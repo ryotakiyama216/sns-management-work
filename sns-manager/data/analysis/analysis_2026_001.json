@@ -2,10 +2,25 @@
   "file_info": {
     "file_number": 1,
     "year": 2026,
-    "from": "",
-    "to": "",
-    "count": 0,
+    "from": "2026-08-11",
+    "to": "2026-08-11",
+    "count": 1,
     "max_rows": 300
   },
-  "entries": []
+  "entries": [
+    {
+      "date": "2026-08-11",
+      "good_patterns": [],
+      "bad_patterns": [],
+      "buzz_patterns": [],
+      "todays_policy": {
+        "theme": "地方フルリモートワークの一日（日常のありのままを見せる）",
+        "type": "リアル日常型（プラットフォームごとの型名はskills/<platform>.mdを参照）",
+        "hook": "結論・意外性・数字を冒頭に置き、地方フルリモートならではの視点を最初の一文で示す",
+        "tone": "等身大・共感重視・営業感なし",
+        "avoid": ["誇張", "煽り", "直接的な宣伝", "押し売り"]
+      },
+      "insight": "実績データ・バズ収集データがまだ蓄積されていないため、skills/とdata/profile.jsonのコンセプトのみを根拠に初回方針を設定した。good_patterns/bad_patterns/buzz_patternsは空のまま。今後01_record.md・02_collect.mdでデータを蓄積し、次回の分析から実績ベースの方針に切り替える。"
+    }
+  ]
 }

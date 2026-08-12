@@ -1,6 +1,8 @@
 {
   "last_updated": "2026-08-11",
-  "total_files": 0,
-  "files": [],
-  "insights": []
+  "total_files": 1,
+  "files": ["analysis_2026_001.json"],
+  "insights": [
+    "実績データがまだ蓄積されていないため、skills/とdata/profile.jsonのコンセプトのみを根拠に初回方針（地方フルリモートワークの一日）を設定した。次回以降は投稿実績・バズ収集データをもとにした分析へ切り替える。"
+  ]
 }
